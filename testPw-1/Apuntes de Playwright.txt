@@ -1,0 +1,16 @@
+1- Instalación de Node.js
+
+ https://nodejs.org/en
+
+2- Editor VSC
+
+https://code.visualstudio.com/
+3- Crear una carpeta 
+4- Crear un proyecto de node.js 
+
+>npm init -y
+6- Instalar PlayWright
+
+npm init playwright@latest
+
+
